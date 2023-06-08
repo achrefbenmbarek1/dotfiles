@@ -1,0 +1,39 @@
+alias clearn="clear;neofetch"
+alias mv='mv -i'
+alias rm='rm -i'
+alias e='exa --git --icons'
+alias open='xdg-open'
+alias ..='cd ..'
+alias startXampp='sudo /opt/lampp/lampp start'
+alias stopXampp='sudo /opt/lampp/lampp stop'
+alias webXampp='cd /opt/lampp/htdocs/'
+alias tolvim='~/.local/share/lunarvim/site/pack/packer/start/harpoon/scripts/tmux/switch-back-to-nvim'
+
+gitLazyCommit() {
+	git add .
+	git commit -m "$1"
+
+}
+
+gitLazyPush() {
+	git add .
+	git commit -m "$1"
+	git push
+
+}
+
+compile(){
+    local file="$1"
+    local extension="${file##*.}"
+    case ${extension} in
+    "c")
+    gcc -Wall -o $2 $1 
+    ;;
+    "cpp")
+    g++ -Wall -o $2 $1 
+    ;;
+    *)
+    echo 'the file extension of your source code is either not supported yet or you mispelled it'
+    ;;
+    esac
+    }

@@ -1,0 +1,2 @@
+require("achref")
+print("hello")
