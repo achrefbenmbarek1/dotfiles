@@ -1,3 +1,6 @@
-2023/04/26-15:06:42.597 17f9 Reusing MANIFEST /home/achref/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
-2023/04/26-15:06:42.597 17f9 Recovering log #3
-2023/04/26-15:06:42.604 17f9 Reusing old log /home/achref/.config/google-chrome/Default/shared_proto_db/000003.log 
+2023/06/17-12:26:07.044 3347 Reusing MANIFEST /home/achref/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2023/06/17-12:26:07.044 3347 Recovering log #3
+2023/06/17-12:26:07.050 3347 Reusing old log /home/achref/.config/google-chrome/Default/shared_proto_db/000003.log 
+2023/06/17-12:26:40.255 333c Level-0 table #5: started
+2023/06/17-12:26:40.262 333c Level-0 table #5: 125296 bytes OK
+2023/06/17-12:26:40.267 333c Delete type=0 #3

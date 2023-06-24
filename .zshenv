@@ -7,8 +7,8 @@ export LD_LIBRARY_PATH
 
 export PATH=/home/achref/.local/bin:/usr/bin:/home/achref/.local/bashScripts:/home/achref/.fnm:/usr/local/bin/gcc-arm-none-eabi-5_4-2016q3/bin:/home/achref/.local/share/lombok:/home/achref/.config/rofi/scripts:/home/achref/.local/share/lombok:/home/achref/.cargo/bin:$PATH
 
-export EDITOR=lvim
-export VISUAL=lvim
+export EDITOR=nvim
+export VISUAL=nvim
 
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk 
 
@@ -25,7 +25,6 @@ export TERMINAL=kitty
 export JDTLS_JVM_ARGS="-javaagent:/home/achref/.local/share/lombok/lombok.jar"
 
 eval "`fnm env`"
-
 # export GLFW_IM_MODULE=ibus
 
 if [[ -f ~/.custom_alias ]]; then

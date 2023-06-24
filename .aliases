@@ -1,4 +1,5 @@
 alias clearn="clear;neofetch"
+alias cl="clear"
 alias mv='mv -i'
 alias rm='rm -i'
 alias e='exa --git --icons'
