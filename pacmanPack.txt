@@ -41,7 +41,6 @@ grub
 imagemagick
 jq
 kitty
-kwin-effects-burn-my-windows-git
 latex-mk
 lib32-gcc-libs
 lib32-glibc
@@ -169,7 +168,6 @@ xorg-xwayland
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
-yay-git
 zathura
 zathura-pdf-mupdf
 zip
