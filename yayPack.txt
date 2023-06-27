@@ -1,0 +1,12 @@
+blugon 1.12.1-1
+cava 0.8.3-1
+google-chrome 112.0.5615.121-1
+kwin-effects-burn-my-windows-git r897.32aec2c-1
+latex-mk 2.1-5
+mongodb-bin 6.0.3-1
+mongosh-bin 1.6.1-1
+sddm-theme-sugar-candy-git r41.a1fae51-1
+snapd 2.57.5-1
+tmux-plugin-manager 3.1.0-1
+xbindkeys_config-gtk2 0.1.4-1
+yay-git 11.3.0.r12.g647d160-1
